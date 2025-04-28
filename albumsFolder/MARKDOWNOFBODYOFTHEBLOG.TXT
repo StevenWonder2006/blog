@@ -1,0 +1,28 @@
+THIS IS THE MARKDOWN OF THE MAIN BLOG 
+  <main>
+
+    <div class="container marketing">
+        
+    <h1 id="heading">HEADING OF GENERAL BLOG OR ARTICLE </h1>
+    <div class="row featurette">
+    
+      <div class="col-md-7">
+        <h2 class="featurette-heading fw-normal lh-1"  id="generalNew">First featurette heading. <span class="text-body-secondary">It’ll blow your mind.</span></h2>
+        <p class="lead">Some great placeholder content for the first featurette here. Imagine some exciting prose here.</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque incidunt possimus, assumenda ab ratione delectus repellendus maiores aspernatur exercitationem beatae sunt 
+          facilis sapiente accusantium enim totam officiis, iure nobis eligendi?</p>
+          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis inventore ullam obcaecati quos veritatis natus iusto voluptatibus iure aspernatur nihil. Temporibus in vitae impedit? Ut,
+             blanditiis. Blanditiis dolor rem error.</p>
+      </div>
+      <div class="col-md-5">
+        <img class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" height="500" src="./a90f98a8-5cd0-4a27-8469-9ec23c019a0e - Copy - Copy.jpg" role="img" aria-label="Placeholder: 500x500" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="var(--bs-secondary-bg)"/><text x="50%" y="50%" fill="var(--bs-secondary-color)" dy=".3em" ></text></img>
+      </div>
+      <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Minima delectus laboriosam repellendus, consequuntur recusandae, velit eveniet modi voluptatem corrupti maxime ipsum, eos maiores tempora ratione rerum soluta asperiores dolore ut.</p>
+     
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum facere quibusdam aliquam necessitatibus nemo, sed totam aspernatur delectus, dolor eius laudantium. Quo minima sapiente omnis earum quibusdam est qui explicabo!</p>
+    </div>
+    <hr class="featurette-divider">
+    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Minima delectus laboriosam repellendus, consequuntur recusandae, velit eveniet modi voluptatem corrupti maxime ipsum, eos maiores tempora ratione rerum soluta asperiores dolore ut.</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum facere quibusdam aliquam necessitatibus nemo, sed totam aspernatur delectus, dolor eius laudantium. Quo minima sapiente omnis earum quibusdam est qui explicabo!</p>
+  </div>
+</main> 

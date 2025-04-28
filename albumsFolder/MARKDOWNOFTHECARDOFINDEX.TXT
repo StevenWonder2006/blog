@@ -1,0 +1,47 @@
+THIS IS A MARKDOWN OF THE CONTENT BODY , YOU ONLY ADD YOUR CONTENT OR THE ARTICLE TO IT AND UPDATE THE 
+JAVASCRIPT FILE 
+
+
+<div class="album py-5 bg-body-tertiary">
+        <div class="container">
+          <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
+            <div class="col">
+              <div class="card shadow-sm">
+                <img
+                  class="bd-placeholder-img card-img-top"
+                  width="100%"
+                  height="225"
+                 src="./720263ca-45e8-4cd3-87d4-ab17ad587246.jpg"
+                  role="img"
+                  aria-label="Placeholder: Thumbnail"
+                  preserveAspectRatio="xMidYMid slice"
+                  focusable="false">
+                  <title>Placeholder</title>
+                  <rect width="100%" height="100%" fill="#55595c" />
+                  <text x="50%" y="50%" fill="#eceeef" dy=".3em">
+                  </text>
+                </img>
+               
+                <div class="card-body">
+                  <p class="card-text">
+                   Lorem ipsum dolor, sit amet consectetur adipisicing elit. Delectus officia eum nesciunt perspiciatis, qui recusandae natus accusantium, soluta,
+                    architecto iusto amet earum hic repellendus est corrupti tempora quas officiis obcaecati?
+                   
+                  </p>
+                  <div
+                    class="d-flex justify-content-between align-items-center">
+                    <div class="btn-group">
+                      <button
+                        type="button"
+                        class="btn btn-sm btn-outline-secondary" onclick="readmore('blog2')">
+                        read
+                      </button>
+                      <button  class="btn btn-sm btn-outline-secondary" id="read-0" onclick="readmore('blog1')"><small>Tech</small></button>
+                
+                    </div>
+                <!--  LIKE BUTTON NOT SET YET -->
+                    <small class="text-body-secondary" >🤍</small><i id='timing'></i>
+                  </div>
+                </div>
+              </div>
+            </div>
